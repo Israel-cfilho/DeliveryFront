@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import './LoginPopup.css'
 import { assets } from '../../assets/assets'
 
+
 const LoginPopup = ({setShowLogin,botao,eventoTeclado,logar}) => {
 
     const [currState,setCurrState] = useState("Entrar")

@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     opacity: 1;
-    transition:  opacity 0.3s ease;
+    transition: background-color 0.3s ease;
 }
 
 .navbar.fixed {
@@ -17,6 +17,7 @@
     padding: 15px;
     opacity: 0.9;
 }
+
 
 .navbar.fixed .navbar-menu {
     color: #2E063B;
